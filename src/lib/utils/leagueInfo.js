@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to all Josh Allen fans and members of NYC Dynasty League</p>
+  <p>Welcome to all Josh Allen fans and members of NYC Dynasty League.</p>
   <p>Para 1</p>
   <p>Para 2</p>
   <p>Para 3</p>
