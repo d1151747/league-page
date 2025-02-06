@@ -27,7 +27,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
     {
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : 735575913235865600
+      "managerID" : "735575913235865600"
       "name": "Declan Watson",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Washington, D.C.", // (optional)
@@ -49,8 +49,8 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
+      "managerID" : "474012108762116096" 
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : 474012108762116096
       "name": "Justin Dibsie",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "New York City", // (optional)
