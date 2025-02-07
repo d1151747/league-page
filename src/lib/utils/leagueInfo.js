@@ -216,7 +216,7 @@ export const managers = [
       "name": "Kunal Chauhan",
       "tookOver": null, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "New York City", // (optional)
-      "bio": "Crazy this is what rooting for a good team is like . . . idk how to act",
+      "bio": "This year I pulled a Lions",
       "photo": "/managers/kunalchauhan.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "was", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
